@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DbgXSpike": {
+      "commandName": "Project",
+      "commandLineArgs": "\"S:\\MoreDuckDuckGo\\Temp\\Page.crash\\4576ecec-04e9-4bd3-963d-0574da982f2f.dmp\""
+    }
+  }
+}
